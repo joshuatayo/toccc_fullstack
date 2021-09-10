@@ -1,0 +1,17 @@
+Order Number,Order Date,Customer Number,First Name,Family Name,Item Number,Description,Cost,Quantity,Total
+1,01/08/2020,1,Simon,Foster,1,Hammer,£10,1,£18
+1,01/08/2020,1,Simon,Foster,2,Saw,£8,1,£18
+2,03/08/2020,2,Chris,Dobson,1,Hammer,£10,1,£10
+3,03/08/2020,3,Alex,Wyett,2,Saw,£8,1,£23
+3,03/08/2020,3,Alex,Wyett,3,Drill,£15,1,£23
+4,06/08/2020,1,Simon,Foster,4,Nails,£0.05,50,£2.50
+5,03/08/2020,2,Chris,Dobson,4,Nails,£0.05,100,£5
+7,09/08/2020,4,Chris,Dobson,5,Screwdriver,£3,1,£7
+7,09/08/2020,4,Chris,Dobson,5,Screwdriver,£3,1,£7
+7,09/08/2020,4,Chris,Dobson,6,Screws,£0.10,10,£7
+9,15/08/2020,1,Simon,Foster,3,Drill,£16,1,£16
+10,18/08/2020,2,Chris,Dobson,5,Screwdriver,£3,1,£4
+10,18/08/2020,2,Chris,Dobson,6,Screws,£0.10,20,£4
+11,25/08/2020,5,Jon,Beverley,1,Saw,£8,1,£14
+11,25/08/2020,5,Jon,Beverley,7,Staples,£0.01,100,£14
+11,25/08/2020,5,Jon,Beverley,8,Stapler,£5,1,£14
